@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EC0F9E797882DA047134692E374E4540A161EFA8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EC0F9E797882DA047134692E374E4540A161EFA8" : 0,
+    "AF70F5CC761A846476A2520A1A61BEB4E215F413" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "32BA5FC8-774F-460B-A277-5039207681E7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EC0F9E797882DA047134692E374E4540A161EFA8" : "RunningBot\/",
+    "AF70F5CC761A846476A2520A1A61BEB4E215F413" : "CS6533-NYU\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RunningBot",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RunningBot\/RunningBot.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:nandukalidindi\/CS6533-NYU.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF70F5CC761A846476A2520A1A61BEB4E215F413"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:nandukalidindi\/RunningBot.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC0F9E797882DA047134692E374E4540A161EFA8"
+    }
+  ]
+}
